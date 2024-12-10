@@ -1,2 +1,3 @@
-A demo page for a product to be viewed on a website. 
-Author Shubh Srivastava
+This is my first react project.
+A demo page for a product on a e-shopping platform.
+
